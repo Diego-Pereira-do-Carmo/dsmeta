@@ -1,15 +1,15 @@
-.meta-red-btn {
-    height: 45px;
+.dsmeta-red-btn {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 45px;
     background: rgba(255, 107, 114, 0.1);
-    border: 1px solid #FF6B72;
+    border: 1px solid #ff6b72;
     border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
+    height: 45px;
 }
 
-.meta-red-btn img {
+.dsmeta-red-btn svg {
     width: 19px;
 }
